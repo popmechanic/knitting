@@ -8,7 +8,6 @@
  *
  * Set the secret:
  *   wrangler secret put OPENROUTER_API_KEY
- *   (then paste: YOUR_API_KEY_HERE)
  */
 
 export default {
